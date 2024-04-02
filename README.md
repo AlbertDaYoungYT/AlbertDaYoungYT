@@ -3,16 +3,16 @@
 ###
 
 Over my long history of programming I have extensive experience with Python and Javascript, because Python was the first language I learnt and my dad programs in Javascript. In my time I dipped my toes in a little bit of everything like: 
- - **C++** for Arduino Development
- - **C#** for a little bit of .Net, but mostly Unity
- - **Java** for Minecraft mods ;)
- - **Python** for anything from basic to advanced projects
- - **Javascipt** for Web Development
- - **Lua** for a bit of Roblox Development
- - **HTML** for Web Development
- - **PHP** for Backend
- - **Redis** for Backend Cache
- - and technically **SQL** for SQLite, MySQL and MariaDB Apps
+- **C++** for Arduino Development
+- **C#** for a little bit of .Net, but mostly Unity
+- **Java** for Minecraft mods ;)
+- **Python** for anything from basic to advanced projects
+- **Javascipt** for Web Development
+- **Lua** for a bit of Roblox Development
+- **HTML** for Web Development
+- **PHP** for Backend
+- **Redis** for Backend Cache
+- and technically **SQL** for SQLite, MySQL and MariaDB Apps
 
 As for frameworks I mainly program Express or Flask for a Backend, and I recently transitioned from Bootstrap with Django, to Tailwind with React for a Frontend (or React Native). 
 
@@ -20,17 +20,19 @@ I've experimented with some AI, in the form of TensorFlow, PyTorch and Pandas as
 
 ###
 <h3 align="left">Technical Skills:</h3>
- - 🎩 Very familiar with Linux in various flavors like: **Fedora**, **Debian** and **Arch**
- - 📱 Fairly familiar with the Android OS, have installed custom roms and bootloaders
- - 🖥 Big understanding of Neural Networks and Machine Learning Applications
- - 📲 Have fixed an iPhone's display and Samsung's display
- - 📘 Knows Windows in and out (i know it really isn't that hard)
- - 🌐 Runs and maintains their own Ubuntu Server
- - 🏗 PCB design and part knowledge
- - 🕹 Big Gamer (join me in CS, Helldivers, Battlefield or other games on my Steam <a href="https://steamcommunity.com/id/AlbertDaYoung_YT">here</a>)
+
+- 🎩 Very familiar with Linux in various flavors like: **Fedora**, **Debian** and **Arch**
+- 📱 Fairly familiar with the Android OS, have installed custom roms and bootloaders
+- 🖥 Big understanding of Neural Networks and Machine Learning Applications
+- 📲 Have fixed an iPhone's display and Samsung's display
+- 📘 Knows Windows in and out (i know it really isn't that hard)
+- 🌐 Runs and maintains their own Ubuntu Server
+- 🏗 PCB design and part knowledge
+- 🕹 Big Gamer (join me in CS, Helldivers, Battlefield or other games on my Steam <a href="https://steamcommunity.com/id/AlbertDaYoung_YT">here</a>)
 
 ###
 <h3 align="left">Status:</h3>
+
 - 🔭 I’m currently working on **React Native Apps**
 - 👯 I’m looking to collaborate on **App Design**
 - 🌱 I’m currently learning **React**
@@ -47,7 +49,7 @@ I've experimented with some AI, in the form of TensorFlow, PyTorch and Pandas as
 -->
 ###
 
-<h3 align="left">Contacts:</h3>
+<h3 align="left">Socials:</h3>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
