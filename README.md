@@ -36,7 +36,7 @@ I've experimented with some AI, in the form of TensorFlow, PyTorch and Pandas as
 ###
 <h3 align="left">Status:</h3>
 
-- 🔭 I’m currently working on **React Native Apps**
+- 🔭 I’m currently working on **React Native Apps** and **Custom ROMs on Exynos SoCs**
 - 👯 I’m looking to collaborate on **App Design**
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **kcobain465@gmail.com** or my socials
