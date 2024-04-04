@@ -25,13 +25,13 @@ I've experimented with some AI, in the form of TensorFlow, PyTorch and Pandas as
 <h3 align="left">Technical Skills:</h3>
 
 - 🎩 Very familiar with Linux in various flavors like: **Fedora**, **Debian** and **Arch**
-- 📱 Fairly familiar with the Android OS, have installed custom roms and bootloaders
-- 🖥 Big understanding of Neural Networks and Machine Learning Applications
-- 📲 Have fixed an iPhone's display and Samsung's display
-- 📘 Knows Windows in and out (i know it really isn't that hard)
-- 🌐 Running and maintaining their own Ubuntu Server
-- 🏗 PCB design and part knowledge
-- 🕹 Big Gamer (join me in CS, Helldivers, Battlefield or other games on my Steam <a href="https://steamcommunity.com/id/AlbertDaYoung_YT">here</a>)
+- 📱 Fairly familiar with the **Android OS**, have installed custom roms and bootloaders
+- 🖥 Big understanding of **Neural Networks** and **Machine Learning Applications**.
+- 📲 Have fixed an iPhone's display and Samsung's display.
+- 📘 Knows **Windows** in and out (i know it really isn't that hard).
+- 🌐 Running and maintaining their own **Ubuntu Server**.
+- 🏗 **PCB** design and part knowledge
+- 🕹 **Big Gamer** (join me in **CS**, **Helldivers**, **Battlefield** or other games on my Steam <a href="https://steamcommunity.com/id/AlbertDaYoung_YT">here</a>)
 
 ###
 <h3 align="left">Status:</h3>
