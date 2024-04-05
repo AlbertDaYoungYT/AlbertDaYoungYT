@@ -10,7 +10,7 @@ Over my long history of programming I have extensive experience with Python and 
 - **C#** for a little bit of .Net, but mostly Unity
 - **Java** for Minecraft mods ;)
 - **Python** for anything from basic to advanced projects
-- **Javascipt** for Web Development
+- **Javascript** for Web Development
 - **Lua** for a bit of Roblox Development
 - **HTML** for Web Development
 - **PHP** for Backend
