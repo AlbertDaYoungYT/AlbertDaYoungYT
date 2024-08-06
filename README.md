@@ -10,14 +10,14 @@ Over my long history of programming I have extensive experience with Python and 
 - **C#** for a little bit of .Net, but mostly Unity
 - **Java** for Minecraft mods ;)
 - **Python** for anything from basic to advanced projects
-- **Javascript** for Web Development
+- **Javascript** in Web Development (mainly React)
 - **Lua** for a bit of Roblox Development
-- **HTML** for Web Development
-- **PHP** for Backend
+- **HTML** in Web Development
+- **Kotlin** in Android app development
 - **Redis** for Backend Cache
 - and technically **SQL** for SQLite, MySQL and MariaDB Apps
 
-As for frameworks I mainly program Express or Flask for a Backend, and I recently transitioned from Bootstrap with Django, to Tailwind with React for a Frontend (or React Native). 
+As for frameworks I mainly program Express or Flask for a Backend, and I recently transitioned from Bootstrap with Django, to Tailwind with React for a Frontend. 
 
 I've experimented with some AI, in the form of TensorFlow, PyTorch and Pandas as well as some of Huggingface's premade models.
 
@@ -27,18 +27,18 @@ I've experimented with some AI, in the form of TensorFlow, PyTorch and Pandas as
 - 🎩 Very familiar with Linux in various flavors like: **Fedora**, **Debian** and **Arch**
 - 📱 Fairly familiar with the **Android OS**, have installed custom roms and bootloaders
 - 🖥 Big understanding of **Neural Networks** and **Machine Learning Applications**.
-- 📲 Have fixed an iPhone's display and Samsung's display.
+- 📲 Have fixed several Android and iOS based phones.
 - 📘 Knows **Windows** in and out (i know it really isn't that hard).
-- 🌐 Running and maintaining their own **Ubuntu Server**.
+- 🌐 Currently Running and maintaining their own **Ubuntu Server**.
 - 🏗 **PCB** design and part knowledge
-- 🕹 **Big Gamer** (join me in **CS**, **Helldivers**, **Battlefield** or other games on my Steam <a href="https://steamcommunity.com/id/AlbertDaYoung_YT">here</a>)
+- 🕹 **Big Gamer** (join me in **CS2**, **Helldivers 2**, **Lethal Company** or other games on my Steam <a href="https://steamcommunity.com/id/AlbertDaYoung_YT">here</a>)
 
 ###
 <h3 align="left">Status:</h3>
 
-- 🔭 I’m currently working on **React Native Apps** and **Custom ROMs on Exynos SoCs**
+- 🔭 I’m currently working on **Native Android Apps** and **Custom ROMs on Exynos SoCs**
 - 👯 I’m looking to collaborate on **App Design**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Kotlin**
 - 📫 How to reach me **kcobain465@gmail.com** or my socials
 
 ###
