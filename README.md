@@ -7,11 +7,11 @@
 
 Over my long history of programming I have extensive experience with Python and Javascript, because Python was the first language I learnt and my dad programs in Javascript. In my time I dipped my toes in a little bit of everything like: 
 - **C++** for Arduino Development
-- **C#** for a little bit of .Net, but mostly Unity
-- **Java** for Minecraft mods ;)
+- **C#** some game development i do when im bored
+- **Java** for Minecraft mods and Plugins ;)
 - **Python** for anything from basic to advanced projects
 - **Javascript** in Web Development (mainly React)
-- **Lua** for a bit of Roblox Development
+- **Golang** currently learning Go in the form of small microservices
 - **HTML** in Web Development
 - **Kotlin** in Android app development
 - **Redis** for Backend Cache
@@ -27,18 +27,17 @@ I've experimented with some AI, in the form of TensorFlow, PyTorch and Pandas as
 - 🎩 Very familiar with Linux in various flavors like: **Fedora**, **Debian** and **Arch**
 - 📱 Fairly familiar with the **Android OS**, have installed custom roms and bootloaders
 - 🖥 Big understanding of **Neural Networks** and **Machine Learning Applications**.
-- 📲 Have fixed several Android and iOS based phones.
+- 📲 Have fixed a couple Android and iOS based phones.
 - 📘 Knows **Windows** in and out (i know it really isn't that hard).
-- 🌐 Currently Running and maintaining their own **Ubuntu Server**.
+- 🌐 Currently Running and maintaining their own **Proxmox Cluster** ("cluster" only 1 pc and 1 old server).
 - 🏗 **PCB** design and part knowledge
-- 🕹 **Big Gamer** (join me in **CS2**, **Helldivers 2**, **Lethal Company** or other games on my Steam <a href="https://steamcommunity.com/id/AlbertDaYoung_YT">here</a>)
+- 🕹 **Big Gamer** (join me in **CS2**, **Helldivers 2**, **Battlefield 6** when it releases, or other games on my Steam <a href="https://steamcommunity.com/id/AlbertDaYoung_YT">here</a>)
 
 ###
 <h3 align="left">Status:</h3>
 
-- 🔭 I’m currently working on **Native Android Apps** and **Custom ROMs on Exynos SoCs**
-- 👯 I’m looking to collaborate on **App Design**
-- 🌱 I’m currently learning **Kotlin**
+- 👯 I’m looking to collaborate on **App Design** & **Backend Development**
+- 🌱 I’m currently learning **Golang**
 - 📫 How to reach me **kcobain465@gmail.com** or my socials
 
 ###
